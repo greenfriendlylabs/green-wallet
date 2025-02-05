@@ -15,9 +15,13 @@ Welcome to the **Green Wallet**, an eco-friendly and community-driven **Luna Cla
 
 ## 🔹 How It Works
 1. **Manage Funds:** View balances, send, and receive LUNC.
-2. **Stake & Earn:** Participate in staking and earn passive rewards.
 3. **Swap & Trade:** Seamlessly swap tokens within the wallet.
-4. **Contribute to Sustainability:** Every transaction helps fund the **Green Faucet** and blockchain validators.
+4. **Stake & Earn:** Participate in staking and earn passive rewards.
+5. **Access the Faucet**: Claim free LUNC from the built-in faucet.
+6. **Governance Participation**: Engage in governance decisions to shape the future of LUNC.
+
+![green_wallet](https://github.com/user-attachments/assets/7f220ec7-df0b-427b-8a1d-1d45261676c6)
+
 
 ## 💰 Donations & Support
 Want to support the sustainability of **Green Wallet**?
