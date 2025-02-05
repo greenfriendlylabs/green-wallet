@@ -8,7 +8,7 @@ Welcome to the **Green Wallet**, an eco-friendly and community-driven **Luna Cla
 - 🔄 **Built-in Staking:** Earn rewards by staking LUNC securely.
 - 🔐 **Decentralized & Transparent:** Built on the **Terra Classic blockchain**, ensuring secure and verifiable transactions.
 - 🔄 **Swap Functionality:** Easily swap tokens within the wallet.
-- 💚 **Green Faucet Integration:** Every transaction contributes **1 LUNC** to the faucet and **1 LUNC** to validators for sustainability.
+- 💚 **Green Faucet Integration:** Claim free LUNC from the built-in faucet.
 - 🌍 **Multi-Language Support:** Available in multiple languages for a global user base.
 - 🔗 **Keplr Integration:** Seamlessly connect and manage your wallet with Keplr.
 - 🌙 **Dark Mode:** User-friendly dark mode for better accessibility and reduced eye strain.
