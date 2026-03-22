@@ -189,7 +189,7 @@ Three CosmWasm contracts handle all on-chain DEX logic:
 ## Donations & Support
 Want to support the sustainability of **Green Wallet**?
 
-📥 **Donate LUNC to:**
+**Donate LUNC to:**
 ```
 terra1l9q4guus5vjxl84d5qea068vcen32l04jmc55w
 ```
@@ -202,8 +202,8 @@ We welcome contributions! Feel free to fork, create pull requests, or report iss
 
 ## Contact & Community
 Join us to discuss and improve **Green Wallet**:
-- 🐦 [Twitter](https://twitter.com/GreenFrndLabs)
-- 🌐 [Website](https://www.greenfriendlylabs.com/)
+- [Twitter](https://twitter.com/GreenFrndLabs)
+- [Website](https://www.greenfriendlylabs.com/)
 
 ---
 Together, let's build a sustainable **LUNC** future! 🌿🚀
