@@ -140,8 +140,6 @@ Three CosmWasm contracts handle all on-chain DEX logic:
 - Slippage protection on all swaps
 - Admin controls: pause, fee updates
 
-See `AMM_GO_LIVE.md` for the mainnet deployment checklist and `AMM_DEPLOY_STEPS.guide` for step-by-step deployment commands.
-
 ---
 
 ## Tech Stack
@@ -167,8 +165,6 @@ See `AMM_GO_LIVE.md` for the mainnet deployment checklist and `AMM_DEPLOY_STEPS.
 |---|---|---|
 | Mainnet (Columbus-5) | columbus-5 | terra-classic-lcd.publicnode.com |
 | Testnet (Rebel-2) | rebel-2 | terra-testnet-lcd.publicnode.com |
-
-You can switch networks using the dropdown in the app header. Contract addresses and endpoints are managed in `src/constants/chains.ts`.
 
 ---
 
