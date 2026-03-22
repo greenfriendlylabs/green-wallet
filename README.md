@@ -126,11 +126,11 @@ Placeholder page for the upcoming GFT token feature - under active development.
 
 Three CosmWasm contracts handle all on-chain DEX logic:
 
-| Contract | Directory | Description |
-|---|---|---|
-| Native AMM Pool | contracts/amm-pool | LUNC / USTC constant-product AMM (x times y = k) |
-| CW20 Token | contracts/cw20-token | ERC-20 equivalent token template |
-| CW20 AMM Pool | contracts/cw20-amm-pool | LUNC / custom-CW20 AMM pool |
+| Contract |  Description |
+|---|---|
+| Native AMM Pool | LUNC / USTC constant-product AMM (x times y = k) |
+| CW20 Token | ERC-20 equivalent token template |
+| CW20 AMM Pool | LUNC / custom-CW20 AMM pool |
 
 **AMM Pool features:**
 - Constant product formula (x times y = k)
@@ -207,3 +207,4 @@ Join us to discuss and improve **Green Wallet**:
 
 ---
 Together, let's build a sustainable **LUNC** future! 🌿🚀
+
